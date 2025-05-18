@@ -1,4 +1,4 @@
 # PowerBI_Simple_Project
 
-This is my practice to work on a real dataset taking from an actual survey regarding to data professional.
+This is my simple work on a real survey regarding to data professional.
 
